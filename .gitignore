@@ -1,0 +1,12 @@
+*.out
+*.o
+*.d
+
+*.a
+*.so
+
+*.debug
+*.dump
+*.core*
+*.tmp
+
